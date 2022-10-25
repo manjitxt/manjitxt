@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m a computer science undergraduate  and aspiring blockchain developer looking to contribute in the changing world of technologies. I aspire to learn new tools and technologies to implement them for building new solutions and explore the tech world to find new opportunities and further improve my skillset.
+🌱 I’m a computer science undergraduate  and aspiring blockchain developer looking to contribute in the changing world of technologies. I aspire to learn new tools and technologies to implement them for building new solutions and explore the tech world to find new opportunities and further improve my skillset.  
+  
+🔭 As a CSE undergraduate and aspiring blockchain developer, my tech stack includes:  
+- Solidity , C++ , Javascript , C , Java , Python 
+- HTML5 , CSS , Bootstrap5 , Reactjs
+- Truffle.js , web3.js , ether.js
+
+
