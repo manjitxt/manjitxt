@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Truffle.js , web3.js , ether.js  
 
 👯I'm currently learning blockchain development and exploring the world of blockchains through hackathons , open-source projects , web 2.0 and everyone's favourite resource "Youtube".
-In future , i aspire to work as a web3.0 developer and contribute in this field with better solutins for developing a true decentralized internet of chains.
+In future , i aspire to work as a web3.0 developer and contribute in this field with better solutions for developing a true decentralized internet of chains.
 
 
 
