@@ -16,18 +16,6 @@
 - Eager to explore the endless possibilities of AI and GenAI in software development.
 - Aspiring to master DevOps methodologies to streamline development processes and enhance project efficiency.
 
-
-🔧 Approach:
-
-- Committed to continuous learning and staying updated with emerging technologies.
-- Thrive in collaborative environments where innovation and creativity flourish.
-
-
-🔮 Vision:
-
-- Envision contributing to transformative tech initiatives that positively impact society.
-- Strive to create innovative solutions that push the boundaries of conventional software development.
-
 🌱 Continuous Growth:
 
 - Actively seeking opportunities for professional growth and skill enhancement.
